@@ -1,0 +1,64 @@
+.headerContainer{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+}
+
+.logo{
+    width: 150px;
+}
+
+.navItems>ul{
+    display: flex;
+}
+
+.navItems>ul>li{
+    padding: 20px;
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.search{
+    padding: 10px;
+}
+
+.res-card{
+    width: 200px;
+   
+   
+    margin: 10px;
+    padding: 5px;
+}
+
+.res-card:hover{
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.res-logo{
+    width: 100%;
+    height: 130px;
+}
+
+.schimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.schimmer-card{
+    width: 200px;
+    height: 400px;
+    margin: 10px;
+    background-color:#f0f0f0;
+}
+
+.btn-Log{
+    margin: 5px 30px;
+    cursor: pointer;
+}
