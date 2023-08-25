@@ -1,0 +1,4 @@
+Functional and Class components support
+Enzyme works best with class-based components. It has a lot of functionalities that make it easy to test class components and their typical functions, such as componentDidMount(), componentWillUnmount(), etc. In the official React documentation, we can read that Enzyme makes it easier to operate on the React Components output, version 16 and older, where class components were still popular.
+
+React Testing Library will perform better in functional-based components. The official React documentation recommends using it whenever possible.
