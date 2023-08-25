@@ -1,0 +1,94 @@
+{
+    "id": "258884",
+    "name": "Relax Pure Veg",
+    "cloudinaryImageId": "ljz7kdigjrc0n5njdepl",
+    "locality": "Paud Road",
+    "areaName": "Kothrud",
+    "costForTwo": "₹300 for two",
+    "cuisines": [
+        "North Indian",
+        "Maharashtrian",
+        "Chinese",
+        "Snacks",
+        "Beverages"
+    ],
+    "avgRating": 4.2,
+    "veg": true,
+    "feeDetails": {
+        "restaurantId": "258884",
+        "fees": [
+            {
+                "name": "BASE_DISTANCE",
+                "fee": 3600
+            },
+            {
+                "name": "BASE_TIME"
+            },
+            {
+                "name": "ANCILLARY_SURGE_FEE"
+            }
+        ],
+        "totalFee": 3600
+    },
+    "parentId": "10067",
+    "avgRatingString": "4.2",
+    "totalRatingsString": "5K+",
+    "promoted": true,
+    "adTrackingId": "cid=7699811~p=1~eid=00000189-b68d-5e6b-07fc-26da00870165~srvts=1690984865387~63141",
+    "sla": {
+        "deliveryTime": 19,
+        "lastMileTravel": 1.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "19 mins",
+        "lastMileTravelString": "1.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2023-08-03 00:00:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "aggregatedDiscountInfoV2": {
+        "header": "₹100 OFF",
+        "shortDescriptionList": [
+            {
+                "meta": "Use DNBINGE",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+            }
+        ],
+        "descriptionList": [
+            {
+                "meta": "FLAT100 off | Use DNBINGE",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+            }
+        ]
+    },
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}
